@@ -13,7 +13,7 @@ We propose a two-level general-purpose protein structure embedding neural networ
 
 ### Usage
 
-The input of this search engine should be protein structure format, such as *.ent and *.pdb. The trained model can be downloaded from [Zenodo](https://zenodo.org/record/6951973). 
+The input of this search engine should be protein structure format, such as *.ent and *.pdb. The trained model can be downloaded from [Zenodo](https://doi.org/10.5281/zenodo.6955113). 
 
 #### Run
 
